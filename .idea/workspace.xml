@@ -4,6 +4,7 @@
     <list default="true" id="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/secret_token.rb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379469107824" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +45,7 @@
       <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.25824964">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.rdoc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.rdoc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="103" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+            <state line="14" column="42" selection-start="357" selection-end="357" vertical-scroll-proportion="0.30129126">
               <folding />
             </state>
           </provider>
@@ -70,8 +62,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
         <option value="$PROJECT_DIR$/README.rdoc" />
+        <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
       </list>
     </option>
   </component>
@@ -433,13 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="103" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -449,7 +434,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.25824964">
+        <state line="14" column="42" selection-start="357" selection-end="357" vertical-scroll-proportion="0.30129126">
           <folding />
         </state>
       </provider>
