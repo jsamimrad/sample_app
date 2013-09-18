@@ -4,7 +4,7 @@
     <list default="true" id="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/secret_token.rb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379477350927" ignored="false" />
+    <file path="/secret_token.rb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379477552949" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
