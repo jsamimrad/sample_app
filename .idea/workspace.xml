@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/static_pages/contact_us.html.erb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/static_pages_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/static_pages_helper.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
@@ -42,7 +28,8 @@
     <file path="/_footer.html.erb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379818140171" ignored="false" />
     <file path="/routes.rb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379821956766" ignored="false" />
     <file path="/_header.html.erb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379818095256" ignored="false" />
-    <file path="/new.html.erb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379822830294" ignored="false" />
+    <file path="/new.html.erb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379823203080" ignored="false" />
+    <file path="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" changelist="cc1a8032-9186-42a1-8f57-cd0cf8f765f1" time="1379823142064" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
